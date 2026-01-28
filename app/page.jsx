@@ -165,7 +165,7 @@ async function translate() {
             Export ZIP
           </button>
         </div>
-
+                <p className="text-center">Julius Varadi 2026</p>
       </div>
     </main>
   );
